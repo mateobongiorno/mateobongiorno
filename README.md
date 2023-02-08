@@ -22,14 +22,14 @@
 **<h2 align="left"> Some of my Projects </h2>**
 
 <p align="center">
-  <h4 align="left">Credit Risk Analysis</h4>
-  <div align="left">
+  <h4 align="center">Credit Risk Analysis</h4>
+  <div align="center">
   <img href="https://github.com/mateobongiorno/Credit_Risk_Analysis" src="https://user-images.githubusercontent.com/105605827/217593176-532a666c-0226-4934-a35e-87c60237a246.jpg" width=400 height=359/>
   </div>
 
-  <h4 align="right">Cat and Dog Classifier</h4>
-  <div align="right">
-  <img href="https://github.com/mateobongiorno/Cat_and_Dog_Image_Classifier" src="https://user-images.githubusercontent.com/105605827/217594260-b6e0ef17-11f5-4e7a-bd2a-6c89eb286af4.jpg" width=400 height=488/>
+  <h4 align="center">Cat and Dog Classifier</h4>
+  <div align="center">
+  <img href="https://github.com/mateobongiorno/Cat_and_Dog_Image_Classifier" src="https://user-images.githubusercontent.com/105605827/217594260-b6e0ef17-11f5-4e7a-bd2a-6c89eb286af4.jpg" width=312 height=400/>
   </div>
 </p>
 
