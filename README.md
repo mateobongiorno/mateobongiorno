@@ -13,7 +13,7 @@
 - 🧞‍♂️ Ask me about **Python, Pandas, Docker, AWS, Flask, MS Azure, Django and Web Development.** I am happy to help.
 - 📊 I'm constantly acquiring new tools to use in my various projects, right now, **NLP**.
 - 📫 Reach me out **mateobongiorno01@gmail.com**.
-- Check out my [Resume](https://github.com/mateobongiorno/mateobongiorno/files/10688174/Mateo_Bongiorno-Resume.pdf)
+- 👀 Check out my [Resume](https://github.com/mateobongiorno/mateobongiorno/files/10688174/Mateo_Bongiorno-Resume.pdf)
 
 
 **<h2 align="left"> My Current Stack:</h2>**
@@ -24,20 +24,24 @@
 <p align="center">
   <h4 align="center">Credit Risk Analysis</h4>
   <div align="center">
-  <img href="https://github.com/mateobongiorno/Credit_Risk_Analysis" src="https://user-images.githubusercontent.com/105605827/217593176-532a666c-0226-4934-a35e-87c60237a246.jpg" width=400 height=359/>
+  <a href="https://github.com/mateobongiorno/Credit_Risk_Analysis">
+  <img src="https://user-images.githubusercontent.com/105605827/217593176-532a666c-0226-4934-a35e-87c60237a246.jpg" width=400 height=359/>
+  </a>
   </div>
 
   <h4 align="center">Cat and Dog Classifier</h4>
   <div align="center">
-  <img href="https://github.com/mateobongiorno/Cat_and_Dog_Image_Classifier" src="https://user-images.githubusercontent.com/105605827/217594260-b6e0ef17-11f5-4e7a-bd2a-6c89eb286af4.jpg" width=312 height=400/>
+  <a href="https://github.com/mateobongiorno/Cat_and_Dog_Image_Classifier">
+  <img src="https://user-images.githubusercontent.com/105605827/217594260-b6e0ef17-11f5-4e7a-bd2a-6c89eb286af4.jpg" width=312 height=400/>
+  </a>
   </div>
 </p>
 
 **<h2 align="left">My GitHub Stats:</h2>**<br>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateobongiorno&show_icons=true&hide_border=true&&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateobongiorno&show_icons=true&hide_border=true&layout=compact&langs_count=18"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mateobongiorno&show_icons=true&hide_border=true&&include_all_commits=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateobongiorno&show_icons=true&hide_border=true&layout=compact&langs_count=18"/>
 </p>
 
 **<h2 align="left"> Let's connect:</h2>**
