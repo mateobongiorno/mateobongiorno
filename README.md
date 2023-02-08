@@ -29,7 +29,7 @@
   </a>
   </div>
 
-  <h4 align="center">Cat and Dog Classifier</h4>
+  <h4 align="center">Cats and Dogs Classifier</h4>
   <div align="center">
   <a href="https://github.com/mateobongiorno/Cat_and_Dog_Image_Classifier">
   <img src="https://user-images.githubusercontent.com/105605827/217594260-b6e0ef17-11f5-4e7a-bd2a-6c89eb286af4.jpg" width=312 height=400/>
