@@ -39,8 +39,8 @@
 
 **<h2 align="left">My GitHub Stats</h2>**<br>
 <p align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateobongiorno&show_icons=true&hide_border=true&&include_all_commits=true" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateobongiorno&show_icons=true&hide_border=true&layout=compact&langs_count=18"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mateobongiorno&show_icons=true&hide_border=true&&include_all_commits=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateobongiorno&show_icons=true&hide_border=true&layout=compact&langs_count=18"/>
 </p>
 
 **<h2 align="left">Let's connect</h2>**
