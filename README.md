@@ -6,7 +6,7 @@
 </picture>
   </h1>
 
-<h3 align="center">I'm a Machine Learning Engineer fascinated by data.</h3>
+<h3 align="center">I'm a Machine Learning Engineer and Data Scientist fascinated by data.</h3>
 
 **<h2 align="left">About me</h2>**
 - 🧑‍💻 I'm currently working on multiple projects using algorithms and applying **Data Science** and **Deep Learning** technics. 
