@@ -9,7 +9,7 @@
 <h3 align="center">I'm a Machine Learning Engineer and Data Scientist fascinated by data.</h3>
 
 **<h2 align="left">About me</h2>**
-- 🧑‍💻 I'm currently working on multiple projects using algorithms and applying **Data Science** and **Deep Learning** technics. 
+- 🧑‍💻 I'm currently working on multiple projects using algorithms and applying **Data Science, Data Analysis** and **Deep Learning** technics. 
 - 🧞‍♂️ Ask me about **Python, Pandas, Docker, AWS, Flask, MS Azure, Django and Web Development.** I am happy to help.
 - 📊 I'm constantly acquiring new tools to use in my various projects, right now, **NLP**.
 - 📫 Reach me out **mateobongiorno01@gmail.com**.
