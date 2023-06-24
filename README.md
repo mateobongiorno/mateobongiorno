@@ -6,12 +6,12 @@
 </picture>
   </h1>
 
-<h3 align="center">I'm a  Artificial Intelligence and Machine Learning Engineer fascinated by data.</h3>
+<h3 align="center">I'm an Artificial Intelligence and Machine Learning Engineer fascinated by data.</h3>
 
 **<h2 align="left">About me</h2>**
 - 🧑‍💻 I'm currently working on multiple projects using algorithms and applying **Data Science, Data Analysis** and **Deep Learning** technics. 
-- 🧞‍♂️ Ask me about **Python, Pandas, Docker, AWS, Flask, MS Azure, Django and Web Development.** I am happy to help.
-- 📊 I'm constantly acquiring new tools to use in my various projects, right now, **NLP**.
+- 🧞‍♂️ Ask me about **Python, Pandas, Docker, AWS, Flask, MS Azure, Django, and Web Development.** I am happy to help.
+- 📊 I'm constantly acquiring new tools for my various projects, now, **NLP**.
 - 📫 Reach me out **mateobongiorno01@gmail.com**.
 <!-- - 👀 Check out my **[Resume](https://github.com/mateobongiorno/mateobongiorno/files/10743322/Mateo_Bongiorno-Resume.pdf)**. -->
 
@@ -32,6 +32,13 @@
   <div align="center">
   <a href="https://github.com/mateobongiorno/Cat_and_Dog_Image_Classifier">
   <img src="https://user-images.githubusercontent.com/105605827/228103008-0af377ad-031c-482b-9cd8-40e2bc0a0ac2.jpg" width=312 height=312/>
+  </a>
+  </div>
+
+  <h4 align="center">Sentiment Analysis on movies reviews with NLP</h4>
+  <div align="center">
+  <a href="https://github.com/mateobongiorno/">
+  <img src="[https://user-images.githubusercontent.com/105605827/228103008-0af377ad-031c-482b-9cd8-40e2bc0a0ac2.jpg]" width=312 height=312/>
   </a>
   </div>
 
