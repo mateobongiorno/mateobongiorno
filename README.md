@@ -30,7 +30,7 @@
 
   <h4 align="center">Image Classification For E-commerce with Computer Vision</h4>
   <div align="center">
-  <a href="https://github.com/mateobongiorno/">
+  <a href="https://github.com/mateobongiorno/Image-Classification-For-E-commerce">
   <img src="https://github.com/mateobongiorno/mateobongiorno/assets/105605827/92b680da-e789-420d-b9c5-aae12c3e6aa0" width=312 height=312/>
   </a>
   </div>
