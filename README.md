@@ -44,7 +44,7 @@
   <h4 align="center">Sentiment Analysis on movies reviews with NLP</h4>
   <div align="center">
   <a href="https://github.com/mateobongiorno/Sentiment-Analysis-on-movies-reviews-with-NLP">
-  <img src="https://github.com/mateobongiorno/mateobongiorno/assets/105605827/7198ab8f-fd11-4eb4-9f1e-38e12c34b112" width=312 height=312/>
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/105605827/248488228-7198ab8f-fd11-4eb4-9f1e-38e12c34b112.jpg" width=312 height=312/>
   </a>
   </div>
 
